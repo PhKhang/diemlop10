@@ -4,10 +4,10 @@
     font-family: Lora, serif;
 }
 body{
-    background-image: linear-gradient(45deg, #bfdfec, #cee6e8);
+    background-image: linear-gradient( 109.6deg, rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1% );
     display: block;
     width: 97vw;
-    height: 90vh;
+    height: 94vh;
     align-items: center;
 }
 
