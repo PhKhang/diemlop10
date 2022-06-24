@@ -8,6 +8,7 @@ document.getElementById('nut').onclick = function () {
 
 document.getElementById('frame').onload = () => {
     console.log('loaded');
+    document.getElementById("frame").contentDocument.body.style.fontFamily = "lora";
     yeet();
   }
 
