@@ -15,7 +15,7 @@ document.getElementById('frame').onload = () => {
 function getRandomInt() {
     min = 100000;
     max = 200000;
-    seed = Math.floor(Math.random() * (3 - 1) + 1);
+    seed = Math.floor(Math.random() * (4 - 1) + 1);
     console.log(seed);
     switch (seed) {
   case 1:
