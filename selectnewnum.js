@@ -16,6 +16,7 @@ function getRandomInt() {
     min = 100000;
     max = 200000;
     seed = Math.floor(Math.random() * (3 - 1) + 1);
+    console.log(seed);
     switch (seed) {
   case 1:
     return Math.floor(Math.random() * (96013 - 90000) + 90000);
